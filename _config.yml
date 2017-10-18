@@ -26,7 +26,7 @@ url: "http://ruby.okinawa" # the base hostname & protocol for your site, e.g. ht
 twitter_username: okinawarb
 github_username:  okinawarb
 show_downloads: false
-google_analytics:
+google_analytics: UA-52770685-2
 
 # Build settings
 theme: jekyll-theme-merlot
