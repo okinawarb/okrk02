@@ -13,7 +13,7 @@ layout: default
 # Speakers
 
 <div style="text-align: center">
-<img width="100" src="/img/speakers/kou.jpeg" alt="Kouhei Sutou icon" />
+<img src="https://gravatar.com/avatar/2d9386b1504e581be390af978e05a8b9?s=200" alt="Kouhei Sutou icon" />
 <p><a href="https://github.com/kou">Kouhei Sutou</a>, Ruby commiter</p>
 </div>
 
