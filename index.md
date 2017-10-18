@@ -21,7 +21,7 @@ We will open CFP later. 📮
 
 # Sponsors
 
-We are looking for sponsors! Contact `okinawarb@gmail.com` if interested. 📩
+We are looking for sponsors! Contact `okrk02@ruby.okinawa` if interested. 📩
 
 
 # Staffs
