@@ -18,7 +18,7 @@
 title: 沖縄Ruby会議02
 email: okinawarb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  2018/03/10 (Sat) @ 琉球大学 工学部１号館 大教室 322
+  Regional RubyKaigi in Okinawa
 
 permalink: /:title
 baseurl: "" # the subpath of your site, e.g. /blog
