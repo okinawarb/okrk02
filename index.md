@@ -8,6 +8,7 @@ layout: default
 
 - 322: 本会場
 - 321: サテライト会場
+- [Google Map](https://maps.google.co.jp/maps/ms?ie=UTF8&brcurrent=3,0x34e56d1df2e32fe5:0xb46dc2f85de43f4b,1&oe=UTF8&msa=0&msid=105655023061209926360.0004954ae235a0ff9b428)
 
 # Speakers
 
