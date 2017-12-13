@@ -20,7 +20,8 @@ layout: default
 </li>
 </ul>
 
-We will open CFP later. 📮
+CFP is now open! 📮
+[https://goo.gl/forms/iNijTSwmUnfHGkcP2](https://goo.gl/forms/iNijTSwmUnfHGkcP2)
 
 # Sponsors
 
