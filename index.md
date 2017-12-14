@@ -35,6 +35,12 @@ _※ 応募状況によっては、後日再募集をかけることがありま
 
 # Sponsors
 
+<ul class="tile">
+<li><a href="https://speee.jp/"><img src="img/speee_logo.jpg" width="200px" alt="Speee" /></a><br></li>
+<li><a href="https://yasslab.jp/"><img src="img/yasslab_logo.png" width="200px" alt="YassLab" /></a><br></li>
+</ul>
+
+
 沖縄Ruby会議を支えるスポンサー企業を募集しています 💰 <br>
 詳しくは `okrk02@ruby.okinawa` までご連絡ください 📩
 
