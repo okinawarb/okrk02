@@ -36,3 +36,4 @@ We are looking for sponsors! Contact `okrk02@ruby.okinawa` if interested. 📩
 
 - 主催: [Okinawa Ruby User Group](http://ruby.okinawa/)
 - 共催: [国立大学法人 琉球大学](http://www.u-ryukyu.ac.jp/)
+- 後援: [一般社団法人 日本Rubyの会](http://ruby-no-kai.org/)
