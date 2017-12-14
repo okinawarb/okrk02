@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2018/03/10 (Sat)
+# 2018/03/10 (土)
 
 <div class="header-3" style="text-align: center; font-weight: bold">琉球大学 工学部１号館 大教室 322 / 321</div>
 
@@ -14,7 +14,7 @@ layout: default
 
 # Speakers
 
-<ul class="speakers">
+<ul class="tile">
 <li><img src="https://avatars.githubusercontent.com/kou?s=200" /><p><a href="https://github.com/kou">Kouhei Sutou</a><br>Ruby commiter<br>TBD</p></li>
 <li><img src="https://avatars.githubusercontent.com/mrkn?s=200" /><p><a href="https://github.com/mrkn">Kenta Murata</a><br>Ruby committer<br><a href="https://github.com/mrkn/pycall.rb">PyCall</a> の話 (仮)</p></li>
 <li><img src="https://avatars.githubusercontent.com/maruuusa83?s=200" /><p><a href="https://github.com/maruuusa83">Daichi Teruya</a><br>2017年度 未踏クリエイター<br>

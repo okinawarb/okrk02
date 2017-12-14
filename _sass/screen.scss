@@ -1,20 +1,20 @@
 
-ul.speakers {
+ul.tile {
   display: table;
   width:   100%;
   padding-left: 0px;
 }
 
-ul.speakers > li:nth-child(2n+1) {
+ul.tile > li:nth-child(2n+1) {
     clear: both;
 }
-ul.speakers > li {
+ul.tile > li {
     display: table-cell;
     float: left;
     width: 50%;
 }
 
-.speakers li {
+.tile li {
   list-style: none;
   background: none;
   text-align: center;
