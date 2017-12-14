@@ -24,7 +24,9 @@ lang: ja_JP
 </li>
 </ul>
 
-スピーカーの公募を開始しました! Ruby の技術に関する話、コミュニティに行ってみた感想、仕事で Ruby を使った話、個人プロジェクトの進捗など、何でも大丈夫です👌 皆さんのご応募をお待ちしております ;)
+<div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">発表者募集</div>
+
+**沖縄Ruby会議で発表してみませんか?** Ruby の面白テクニック、コミュニティに行ってみた感想、仕事で Ruby を使ってみた話、個人プロジェクトの進捗など、何でも大丈夫です👌 皆さんのご応募をお待ちしております ;)
 
 📮  応募フォーム(〆切: 2017年12月31日)
 [https://goo.gl/forms/iNijTSwmUnfHGkcP2](https://goo.gl/forms/iNijTSwmUnfHGkcP2)
