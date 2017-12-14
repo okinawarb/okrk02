@@ -49,7 +49,7 @@ _※ 応募状況によっては、後日再募集をかけることがありま
 </div>
 
 
-# Staffs
+# Organizers
 
 - 主催: [Okinawa Ruby User Group](http://ruby.okinawa/)
 - 共催: [国立大学法人 琉球大学](http://www.u-ryukyu.ac.jp/)
