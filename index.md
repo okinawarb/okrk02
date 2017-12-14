@@ -1,5 +1,7 @@
 ---
 layout: default
+title: 沖縄Ruby会議02 - 2018/03/10 (土)
+lang: ja_JP
 ---
 
 # 2018/03/10 (土)
