@@ -29,7 +29,12 @@ _※ 応募状況によっては、後日再募集をかけることがありま
 
 # Sponsors
 
-We are looking for sponsors! Contact `okrk02@ruby.okinawa` if interested. 📩
+沖縄Ruby会議を支えるスポンサー企業を募集しています 💰 <br>
+詳しくは `okrk02@ruby.okinawa` までご連絡ください 📩
+
+<div class="header-3" style="text-align: center; font-weight: bold">
+参考: <a href="http://ruby.okinawa/okrk01/">前回の沖縄Ruby会議</a>
+</div>
 
 
 # Staffs
