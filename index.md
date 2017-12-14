@@ -9,6 +9,8 @@ layout: default
 - 322: Session space
 - 321: Open space (もくもく部屋)
 - [Google Map](https://maps.google.co.jp/maps/ms?ie=UTF8&brcurrent=3,0x34e56d1df2e32fe5:0xb46dc2f85de43f4b,1&oe=UTF8&msa=0&msid=105655023061209926360.0004954ae235a0ff9b428)
+- Hashtag: [#okrk02](https://twitter.com/search?f=tweets&q=okrk02%20OR%20%E6%B2%96%E7%B8%84Ruby%E4%BC%9A%E8%AD%B0&src=typd)
+
 
 # Speakers
 
