@@ -17,7 +17,7 @@ lang: ja_JP
 # Speakers
 
 <ul class="tile">
-<li><img src="https://avatars.githubusercontent.com/kou?s=200" /><p><a href="https://github.com/kou">Kouhei Sutou</a><br>Ruby commiter<br>TBD</p></li>
+<li><img src="https://avatars.githubusercontent.com/kou?s=200" /><p><a href="https://github.com/kou">Kouhei Sutou</a><br>Ruby commiter<br>Red Data Tools</p></li>
 <li><img src="https://avatars.githubusercontent.com/mrkn?s=200" /><p><a href="https://github.com/mrkn">Kenta Murata</a><br>Ruby committer<br><a href="https://github.com/mrkn/pycall.rb">PyCall</a> の話 (仮)</p></li>
 <li><img src="https://avatars.githubusercontent.com/maruuusa83?s=200" /><p><a href="https://github.com/maruuusa83">Daichi Teruya</a><br>2017年度 未踏クリエイター<br>
 <a href="https://www.ipa.go.jp/jinzai/mitou/2017/gaiyou_s-1.html">CPU＋FPGAプラットフォームのためのRubyベースの開発環境</a></p>
