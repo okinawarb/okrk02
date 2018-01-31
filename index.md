@@ -31,7 +31,6 @@ lang: ja_JP
 📮  応募フォーム (定員になり次第、締め切りとなります)
 [https://goo.gl/forms/iNijTSwmUnfHGkcP2](https://goo.gl/forms/iNijTSwmUnfHGkcP2)
 
-_※ 応募状況によっては、後日再募集をかけることがあります。あらかじめご了承ください。_
 
 # Sponsors
 
