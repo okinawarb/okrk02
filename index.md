@@ -12,7 +12,21 @@ lang: ja_JP
 - 321: Open space (もくもく部屋)
 - Access: [Google Map](https://maps.google.co.jp/maps/ms?ie=UTF8&brcurrent=3,0x34e56d1df2e32fe5:0xb46dc2f85de43f4b,1&oe=UTF8&msa=0&msid=105655023061209926360.0004954ae235a0ff9b428)
 - Hashtag: [#okrk02](https://twitter.com/search?f=tweets&q=okrk02%20OR%20%E6%B2%96%E7%B8%84Ruby%E4%BC%9A%E8%AD%B0&src=typd)
+- 参加費: 無料
 
+**沖縄Ruby会議02を開催します!** 当日はRubyに関するテクニカルな話や、OSSコミュニティや仕事の話、それぞれが取り組んでいるプロジェクトの進捗発表などが行われます🗣
+
+今年は前回に比べてなるべく **「まったり」** と準備を進めており、豪勢な飾りやおもてなしなどはありません。運営にあまりコストをかけず、気軽に沖縄で集まる **「場づくり」** に繋がればと考えています。
+
+運営は省エネですが **スピーカーは県内外から集まっている** ので、様々な Rubyist たちが沖縄で交流する機会には打ってつけです! 県内外の Rubyist が集まる貴重な機会なので、ぜひこの機会に参加してみてはいかがでしょうか? 🏃💨
+
+<div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">
+参加フォーム
+</div>
+
+<a data-width="500" class="doorkeeper-registration-widget" href="https://okinawarb.doorkeeper.jp/events/70507">沖縄Ruby会議02</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+
+<br>
 
 # Guest Speakers
 
@@ -32,13 +46,95 @@ lang: ja_JP
 [https://goo.gl/forms/iNijTSwmUnfHGkcP2](https://goo.gl/forms/iNijTSwmUnfHGkcP2)
 -->
 
+# Timetable
+
+<style type="text/css">
+.tg {border-collapse:collapse;border-spacing:0;}
+.tg td {font-size:14px;padding:10px 5px;overflow:hidden;word-break:normal;}
+.tg th {font-size:14px;font-weight:bold;padding:10px 5px;overflow:hidden;word-break:normal;}
+.tg .center{text-align:center}
+.tg .break{font-weight:bold;}
+</style>
+
+<table class="tg">
+  <tr>
+    <th>時間</th>
+    <th>タイトル</th>
+  </tr>
+  <tr>
+    <td class="center">13:00〜</td>
+    <td class="center">オープニング<br><a href="https://twitter.com/yasulab">@yasulab</a></td>
+  </tr>
+  <tr>
+    <td class="center">13:10〜</td>
+    <td class="center">Red Data Tools<br><a href="https://github.com/kou">@kou</a></td>
+  </tr>
+  <tr>
+    <td class="center">14:00〜</td>
+    <td class="center">
+	RailsでOSSのWebアプリケーションを書くための 'ことはじめ'<br>
+	<a href="https://github.com/kami-zh">@kami-zh</a><br><br>
+	TracePoint Tips Talk<br>
+	<a href="https://twitter.com/_simanman">@_simanman</a><br><br>
+	A ripper based syntax highlighter<br>
+	<a href="https://github.com/pocke">@pocke</a>
+	</td>
+  </tr>
+  <tr>
+    <td class="center break" colspan="2">Break &amp; Ask the speaker</td>
+  </tr>
+  <tr>
+    <td class="center">15:00〜</td>
+    <td class="center">CPU＋FPGAプラットフォームのためのRubyベースの開発環境<br>
+	<a href="https://github.com/maruuusa83">@maruuusa83</a></td>
+  </tr>
+  <tr>
+    <td class="center">15:30〜</td>
+    <td class="center">ActiveRecord::ConnectionAdapters の下の世界<br>
+	<a href="https://twitter.com/koic">@koic</a><br><br>
+	そっと支えて、一歩踏む出した「アトオス」<br>
+	<a href="https://twitter.com/puremoru0315">@puremoru0315</a><br><br>
+	Fast Code for Ruby<br>
+	<a href="https://twitter.com/284km">@284km</a></td>
+  </tr>
+  <tr>
+    <td class="center break" colspan="2">Break &amp; Ask the speaker</td>
+  </tr>
+  <tr>
+    <td class="center">16:30〜</td>
+    <td class="center">
+	文系から半年でRuby（Sinatra, Rails）を学んだら人生変わった<br>
+	<a href="https://github.com/masayoshi-tokumoto">@masayoshi-tokumoto</a><br><br>
+	調整中</td>
+  </tr>
+  <tr>
+    <td class="center">17:00〜</td>
+    <td class="center">PyCall の話 (仮)<br>
+	<a href="https://twitter.com/mrkn">@mrkn</a></td>
+  </tr>
+  <tr>
+    <td class="center">17:50〜</td>
+    <td class="center">クロージング &amp; 集合写真<br>
+	<a href="https://twitter.com/yasulab">@yasulab</a></td>
+  </tr>
+  <tr>
+    <td class="center">18:00</td>
+    <td class="center">解散</td>
+  </tr>
+  <tr>
+    <td class="center">19:00</td>
+    <td class="center">懇親会 (調整中)</td>
+  </tr>
+</table>
+
+懇親会については現在調整中です! 決まり次第、参加者にメールでお知らせいたします 🍻✨
+
 # Sponsors
 
 <ul class="tile">
-<li><a href="https://speee.jp/"><img src="img/speee_logo.jpg" width="200px" alt="Speee" /></a><br></li>
-<li><a href="https://yasslab.jp/"><img src="img/yasslab_logo.png" width="200px" alt="YassLab" /></a><br></li>
+<li><a href="https://speee.jp/"><img src="http://ruby.okinawa/okrk02/img/speee_logo.jpg" width="200px" alt="Speee" /></a><br></li>
+<li><a href="https://yasslab.jp/"><img src="http://ruby.okinawa/okrk02/img/yasslab_logo.png" width="200px" alt="YassLab" /></a><br></li>
 </ul>
-
 
 沖縄Ruby会議を支えるスポンサー企業を募集しています 💰 <br>
 詳しくは `okrk02@ruby.okinawa` までご連絡ください 📩
