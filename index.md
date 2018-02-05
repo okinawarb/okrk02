@@ -140,9 +140,8 @@ lang: ja_JP
 詳しくは `okrk02@ruby.okinawa` までご連絡ください 📩
 
 <div class="header-3" style="text-align: center; font-weight: bold">
-参考: <a href="http://ruby.okinawa/okrk01/">前回の沖縄Ruby会議</a>
+参考: <a href="http://magazine.rubyist.net/?0047-OkinawaRubyKaigi01Report">前回のレポート (Rubyist Magazine)</a>
 </div>
-
 
 # Organizers
 
