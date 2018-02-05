@@ -14,7 +14,7 @@ lang: ja_JP
 - Hashtag: [#okrk02](https://twitter.com/search?f=tweets&q=okrk02%20OR%20%E6%B2%96%E7%B8%84Ruby%E4%BC%9A%E8%AD%B0&src=typd)
 
 
-# Speakers
+# Guest Speakers
 
 <ul class="tile">
 <li><img src="https://avatars.githubusercontent.com/kou?s=200" /><p><a href="https://github.com/kou">Kouhei Sutou</a><br>Ruby commiter<br>Red Data Tools</p></li>
@@ -24,13 +24,13 @@ lang: ja_JP
 </li>
 </ul>
 
+<!--
 <div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">発表者募集</div>
-
 **沖縄Ruby会議で発表してみませんか?** Ruby の面白テクニック、コミュニティに行ってみた感想、仕事で Ruby を使ってみた話、個人プロジェクトの進捗など、何でも大丈夫です👌 皆さんのご応募をお待ちしております ;)
 
 📮  応募フォーム (定員になり次第、締め切りとなります)
 [https://goo.gl/forms/iNijTSwmUnfHGkcP2](https://goo.gl/forms/iNijTSwmUnfHGkcP2)
-
+-->
 
 # Sponsors
 
