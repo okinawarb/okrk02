@@ -105,10 +105,12 @@ lang: ja_JP
     <td class="center">
 	文系から半年でRuby（Sinatra, Rails）を学んだら人生変わった<br>
 	<a href="https://github.com/masayoshi-tokumoto">@masayoshi-tokumoto</a><br><br>
-	調整中</td>
+	Rubyの起動処理刷新計画<br>
+	<a href="https://github.com/ko1">@ko1</a>
+	</td>
   </tr>
   <tr>
-    <td class="center">17:00〜</td>
+  <td class="center">17:00〜</td>
     <td class="center">PyCall の話 (仮)<br>
 	<a href="https://twitter.com/mrkn">@mrkn</a></td>
   </tr>
