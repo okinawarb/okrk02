@@ -92,7 +92,7 @@ lang: ja_JP
     <td class="center">15:30〜</td>
     <td class="center">ActiveRecord::ConnectionAdapters の下の世界<br>
 	<a href="https://twitter.com/koic">@koic</a><br><br>
-	そっと支えて、一歩踏む出した「アトオス」<br>
+	はじめてのアジャイル開発×Railsで得たこと<br>
 	<a href="https://twitter.com/puremoru0315">@puremoru0315</a><br><br>
 	Fast Code for Ruby<br>
 	<a href="https://twitter.com/284km">@284km</a></td>
