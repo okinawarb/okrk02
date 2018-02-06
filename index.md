@@ -145,6 +145,16 @@ lang: ja_JP
 
 # Organizers
 
+<div class="header-3" style="text-align: center; font-weight: bold">
+<a href="https://twitter.com/yasulab">@yasulab</a>,
+<a href="https://twitter.com/saboyutaka">@saboyutaka</a>,
+<a href="https://twitter.com/himajin315">@himajin315</a>
+</div>
+
 - 主催: [Okinawa Ruby User Group](http://ruby.okinawa/)
 - 共催: [国立大学法人 琉球大学](http://www.u-ryukyu.ac.jp/)
 - 後援: [一般社団法人 日本Rubyの会](http://ruby-no-kai.org/)
+
+
+
+---------------------------
