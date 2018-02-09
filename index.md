@@ -140,7 +140,8 @@ lang: ja_JP
 </ul>
 
 沖縄Ruby会議を支えるスポンサー企業を募集しています 💰 <br>
-詳しくは `okrk02@ruby.okinawa` までご連絡ください 📩
+３万円からの支援が可能で、Webサイトに御社ロゴを掲載します🏢✨<br>
+それ以上の支援については `okrk02@ruby.okinawa` までご連絡ください 📩
 
 <div class="header-3" style="text-align: center; font-weight: bold">
 参考: <a href="http://magazine.rubyist.net/?0047-OkinawaRubyKaigi01Report">前回のレポート (Rubyist Magazine)</a>
