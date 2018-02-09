@@ -134,8 +134,9 @@ lang: ja_JP
 # Sponsors
 
 <ul class="tile">
-<li><a href="https://speee.jp/"><img src="http://ruby.okinawa/okrk02/img/speee_logo.jpg" width="200px" alt="Speee" /></a><br></li>
-<li><a href="https://yasslab.jp/"><img src="http://ruby.okinawa/okrk02/img/yasslab_logo.png" width="200px" alt="YassLab" /></a><br></li>
+<li><a href="https://speee.jp/"><img src="http://ruby.okinawa/okrk02/img/logo/speee.jpg" width="200px" alt="Speee" /></a><br></li>
+<li><a href="https://yasslab.jp/"><img src="http://ruby.okinawa/okrk02/img/logo/yasslab.png" width="200px" alt="YassLab" /></a><br></li>
+<li><img src="http://ruby.okinawa/okrk02/img/logo/mntk.png" width="200px" alt="YassLab" /><br></li>
 </ul>
 
 沖縄Ruby会議を支えるスポンサー企業を募集しています 💰 <br>
