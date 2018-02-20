@@ -25,7 +25,14 @@ lang: ja_JP
 </div>
 
 <a data-width="500" class="doorkeeper-registration-widget" href="https://okinawarb.doorkeeper.jp/events/70507">沖縄Ruby会議02</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+<br>
 
+<div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">
+懇親会フォーム
+</div>
+
+イベント終了後、懇親会も開催されます。皆さんのご参加をお待ちしております ;)
+[https://okinawarb.doorkeeper.jp/events/71312](https://okinawarb.doorkeeper.jp/events/71312)
 <br>
 
 # Guest Speakers
