@@ -131,12 +131,14 @@ lang: ja_JP
     <td class="center">解散</td>
   </tr>
   <tr>
-    <td class="center">19:00</td>
-    <td class="center">懇親会 (調整中)</td>
+    <td class="center">18:30〜</td>
+    <td class="center">懇親会 (要: <a href="https://okinawarb.doorkeeper.jp/events/71312">申し込み</a>)</td>
   </tr>
 </table>
 
-懇親会については現在調整中です! 決まり次第、参加者にメールでお知らせいたします 🍻✨
+イベント終了後、懇親会も開催されます。皆さんのご参加をお待ちしております  🍻✨
+[https://okinawarb.doorkeeper.jp/events/71312](https://okinawarb.doorkeeper.jp/events/71312)
+
 
 # Sponsors
 
