@@ -146,7 +146,7 @@ lang: ja_JP
 <li><a href="https://speee.jp/"><img src="http://ruby.okinawa/okrk02/img/logo/speee.jpg" width="200px" alt="株式会社Speee" /></a><br></li>
 <li><a href="https://yasslab.jp/"><img src="http://ruby.okinawa/okrk02/img/logo/yasslab.png" width="200px" alt="YassLab株式会社" /></a><br></li>
 <li><img src="http://ruby.okinawa/okrk02/img/logo/mntk.png" width="200px" alt="株式会社ミノタケ" /><br></li>
-<li><a href="https://jp.corp-sansan.com/"><img src="http://ruby.okinawa/okrk02/img/logo/sansan.png" width="200px" alt="Sansan株式会社" /></a><br></li>
+<li><a href="https://8card.net/"><img src="http://ruby.okinawa/okrk02/img/logo/eight.png" width="200px" alt="Eight" /></a><br></li>
 </ul>
 
 沖縄Ruby会議を支えるスポンサー企業を募集しています 💰 <br>
