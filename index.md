@@ -114,7 +114,7 @@ lang: ja_JP
 	<a href="https://github.com/masayoshi-tokumoto">@masayoshi-tokumoto</a><br><br>
 	<s>Rubyの起動処理刷新計画</s><br>
 	<s><a href="https://github.com/ko1">@ko1</a></s><br>
-	都合によりキャンセルになりました。<br><br>
+	都合によりキャンセルになりました 🙏<br><br>
 	(タイトル未定)<br>
 	<a href="https://github.com/yotaro-fujii">@yotaro-fujii</a>
 	</td>
