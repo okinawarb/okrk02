@@ -163,7 +163,8 @@ lang: ja_JP
 <div class="header-3" style="text-align: center; font-weight: bold">
 <a href="https://twitter.com/yasulab">@yasulab</a>,
 <a href="https://twitter.com/saboyutaka">@saboyutaka</a>,
-<a href="https://twitter.com/himajin315">@himajin315</a>,<br>
+<a href="https://twitter.com/himajin315">@himajin315</a>,
+<a href="https://twitter.com/nanophate">@nanophate</a>,<br>
 <a href="https://twitter.com/The_Na_Ka">@The_Na_Ka</a>,
 <a href="https://twitter.com/nankuru_free">@nankuru_free</a>,
 <a href="https://twitter.com/@7kosei">@7kosei</a>
