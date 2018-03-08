@@ -112,8 +112,9 @@ lang: ja_JP
     <td class="center">
 	文系から半年でRuby（Sinatra, Rails）を学んだら人生変わった<br>
 	<a href="https://github.com/masayoshi-tokumoto">@masayoshi-tokumoto</a><br><br>
-	Rubyの起動処理刷新計画<br>
-	<a href="https://github.com/ko1">@ko1</a>
+	<s>Rubyの起動処理刷新計画</s><br>
+	<s><a href="https://github.com/ko1">@ko1</a></s><br>
+	都合によりキャンセルになりました。現在調整中です🗓🔧💨
 	</td>
   </tr>
   <tr>
