@@ -69,6 +69,10 @@ lang: ja_JP
     <th>タイトル</th>
   </tr>
   <tr>
+    <td class="center">12:30〜</td>
+    <td class="center">開場</td>
+  </tr>
+  <tr>
     <td class="center">13:00〜</td>
     <td class="center">オープニング<br><a href="https://twitter.com/yasulab">@yasulab</a></td>
   </tr>
