@@ -198,7 +198,7 @@ lang: ja_JP
 <a href="https://twitter.com/nanophate">@nanophate</a>,
 <a href="https://twitter.com/The_Na_Ka">@The_Na_Ka</a>,<br>
 <a href="https://twitter.com/nankuru_free">@nankuru_free</a>,
-<a href="https://twitter.com/@7kosei">@7kosei</a>
+<a href="https://twitter.com/7kosei">@7kosei</a>
 </div>
 
 - 主催: [Okinawa Ruby User Group](http://ruby.okinawa/)
