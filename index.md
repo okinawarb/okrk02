@@ -48,6 +48,7 @@ lang: ja_JP
 参加フォーム
 </div>
 
+<!-- Doorkeeper Embedded Widget -->
 <a data-width="500" class="doorkeeper-registration-widget" href="https://okinawarb.doorkeeper.jp/events/70507">沖縄Ruby会議02</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 <br>
 
@@ -174,10 +175,10 @@ lang: ja_JP
 # Sponsors
 
 <ul class="tile">
-<li><a href="https://speee.jp/"><img src="http://ruby.okinawa/okrk02/img/logo/speee.jpg" width="200px" alt="株式会社Speee" /></a><br></li>
-<li><a href="https://yasslab.jp/"><img src="http://ruby.okinawa/okrk02/img/logo/yasslab.png" width="200px" alt="YassLab株式会社" /></a><br></li>
-<li><img src="http://ruby.okinawa/okrk02/img/logo/mntk.png" width="200px" alt="株式会社ミノタケ" /><br></li>
-<li><a href="https://8card.net/"><img src="http://ruby.okinawa/okrk02/img/logo/eight.jpg" width="200px" alt="Eight" /></a><br></li>
+<li><a href="https://speee.jp/"><img src="{{ site.url }}/{{ site.tag }}/img/logo/speee.jpg" width="200px" alt="株式会社Speee" /></a><br></li>
+<li><a href="https://yasslab.jp/"><img src="{{ site.url }}/{{ site.tag }}/img/logo/yasslab.png" width="200px" alt="YassLab株式会社" /></a><br></li>
+<li><img src="{{ site.url }}/{{ site.tag }}/img/logo/mntk.png" width="200px" alt="株式会社ミノタケ" /><br></li>
+<li><a href="https://8card.net/"><img src="{{ site.url }}/{{ site.tag }}/img/logo/eight.jpg" width="200px" alt="Eight" /></a><br></li>
 </ul>
 
 沖縄Ruby会議を支えるスポンサー企業を募集しています 💰 <br>
