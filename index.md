@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 沖縄Ruby会議02 - 2018/03/10 (土)
+title: {{ site.title }} - {{ site.date }}
 lang: ja_JP
 ---
 
@@ -28,7 +28,7 @@ lang: ja_JP
 以下、記録用として、開催直前のWebサイトをそのまま残しております。
 今後の地域Ruby会議開催のご参考になれば幸いです ;) 
 
-# 2018/03/10 (土)
+# {{ site.date }}
 
 <div class="header-3" style="text-align: center; font-weight: bold">琉球大学 工学部１号館 大教室 321 / 322</div>
 
@@ -182,7 +182,7 @@ lang: ja_JP
 
 沖縄Ruby会議を支えるスポンサー企業を募集しています 💰 <br>
 ３万円からの支援が可能で、Webサイトに御社ロゴを掲載します🏢✨<br>
-それ以上の支援については `okrk02@ruby.okinawa` までご連絡ください 📩
+それ以上の支援については `{{ site.contact }}` までご連絡ください 📩
 
 <div class="header-3" style="text-align: center; font-weight: bold">
 参考: <a href="http://magazine.rubyist.net/?0047-OkinawaRubyKaigi01Report">前回のレポート (Rubyist Magazine)</a>
@@ -191,20 +191,14 @@ lang: ja_JP
 # Organizers
 
 <div class="header-3" style="text-align: center; font-weight: bold">
-<a href="https://twitter.com/yasulab">@yasulab</a>,
-<a href="https://twitter.com/saboyutaka">@saboyutaka</a>,<br>
-<a href="https://twitter.com/himajin315">@himajin315</a>,
-<a href="https://twitter.com/naopontan">@naopontan</a>,<br>
-<a href="https://twitter.com/nanophate">@nanophate</a>,
-<a href="https://twitter.com/The_Na_Ka">@The_Na_Ka</a>,<br>
-<a href="https://twitter.com/nankuru_free">@nankuru_free</a>,
-<a href="https://twitter.com/7kosei">@7kosei</a>
+{% for organizer in site.organizers %}
+  <a href="https://twitter.com/{{ organizer }}">@{{ organizer }}</a>
+{% endfor %}
 </div>
 
 - 主催: [Okinawa Ruby User Group](http://ruby.okinawa/)
 - 共催: [国立大学法人 琉球大学](http://www.u-ryukyu.ac.jp/)
 - 後援: [一般社団法人 日本Rubyの会](http://ruby-no-kai.org/)
 
-
-
 ---------------------------
+
