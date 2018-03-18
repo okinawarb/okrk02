@@ -35,7 +35,7 @@ lang: ja_JP
 - 321: Session space (本会場)
 - 322: Open space (予備会場)
 - Access: [Google Map](https://www.google.com/maps/d/u/0/viewer?oe=UTF8&msa=0&ie=UTF8&brcurrent=3%2C0x34e56d1df2e32fe5%3A0xb46dc2f85de43f4b%2C1&mid=1mzwiSyQzTAi0hbKYrwrjgs7tmo4&ll=26.253345999999993%2C127.76630999999998&z=17)
-- Hashtag: [#{{ site.url }}](https://twitter.com/search?f=tweets&q={{ site.url }}%20OR%20%E6%B2%96%E7%B8%84Ruby%E4%BC%9A%E8%AD%B0&src=typd)
+- Hashtag: [#{{ site.tag }}](https://twitter.com/search?f=tweets&q={{ site.tag }}%20OR%20%E6%B2%96%E7%B8%84Ruby%E4%BC%9A%E8%AD%B0&src=typd)
 - 参加費: 無料
 
 **沖縄Ruby会議02を開催します!** 当日はRubyに関するテクニカルな話から、OSSコミュニティや仕事での話、また、それぞれが取り組んでいるプロジェクトの進捗発表などが行われます🗣

@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 
 # Page settings
-url:   okrk02
+# NOTE: site.url => localhost:4000 or ruby.okinawa
+tag:   okrk02
 date:  2018/03/10 (土)
 team:  沖縄Ruby会議 実行委員会
 title: 沖縄Ruby会議02
