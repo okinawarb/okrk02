@@ -65,7 +65,7 @@ lang: ja_JP
 <ul class="tile">
 <li><img src="https://avatars.githubusercontent.com/kou?s=200" /><p><a href="https://github.com/kou">Kouhei Sutou</a><br>Ruby commiter<br><a href="https://red-data-tools.github.io/">Red Data Tools</a></p></li>
 <li><img src="https://avatars.githubusercontent.com/mrkn?s=200" /><p><a href="https://github.com/mrkn">Kenta Murata</a><br>Ruby committer<br>Ruby をデータサイエンス分野に<br>対応させる活動の現況</p></li>
-<li><img src="https://avatars.githubusercontent.com/maruuusa83?s=200" /><p><a href="https://github.com/maruuusa83">Daichi Teruya</a><br>2017年度 未踏クリエイター<br>
+<li><img src="https://avatars.githubusercontent.com/maruuusa83?s=200" /><p><a href="https://github.com/maruuusa83">Daichi Teruya</a><br>2017年度 <a href="https://www.ipa.go.jp/jinzai/mitou/2017/20180510.html">未踏スーパークリエータ</a><br>
 <a href="https://www.ipa.go.jp/jinzai/mitou/2017/gaiyou_s-1.html">CPU＋FPGAプラットフォームのためのRubyベースの開発環境</a></p>
 </li>
 </ul>
