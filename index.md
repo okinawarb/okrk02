@@ -9,6 +9,7 @@ lang: ja_JP
 <img src="img/okrk02_cover.png" width='100%' />
 
 <br>
+<br>
 
 <!--
 <div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">
