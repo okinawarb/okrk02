@@ -9,8 +9,6 @@ lang: ja_JP
 <img src="img/okrk02_cover.png" width='100%' />
 
 
-## 当日の様子
-
 <!--
 <div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">
 📹 動画
@@ -22,7 +20,7 @@ lang: ja_JP
 -->
 
 <div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">
-📸 写真
+📸 当日の様子
 <a href="https://bit.ly/okrk02-photos-on-dropbox"><img src="img/okrk02_photos.png" width='100%' /></a>
 </div>
 <center><a href="https://bit.ly/okrk02-photos-on-dropbox">当日の写真</a><br>
