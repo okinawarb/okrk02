@@ -8,11 +8,12 @@ lang: ja_JP
 
 <img src="img/okrk02_cover.png" width='100%' />
 
+<!--
+
 当日の様子は動画と写真で記録し、[YouTube の CC BY](https://support.google.com/youtube/answer/2797468?hl=ja) ライセンスで公開しております。動画や写真で当日の雰囲気を味わって頂ければ幸いです📹📸
 
 <br>
 
-<!--
 <div class="header-3" style="text-align: center; font-weight: bold; font-size: 150%">
 📹 動画
 <a href="https://www.youtube.com/playlist?list=PLNLYzHXJU2-84dl1iyRuGMJS9F2_7rArA"><img src="img/okrk02_youtube.png" width='100%' /></a>
@@ -26,9 +27,10 @@ lang: ja_JP
 </div>
 <center><a href="https://www.dropbox.com/sh/s2mw6gvsj052fta/AABDnWKwdsAtQiDX9g9315OUa">当日の写真</a><br>
 (<a href="https://creativecommons.org/licenses/by/3.0/deed.ja">CC BY</a> ©︎ <a href="http://twitter.com/nanophate">@nanophate</a>)</center>
--->
 
 <br>
+
+-->
 
 以下、記録用として、開催直前のWebサイトをそのまま残しております。
 今後の地域Ruby会議開催のご参考になれば幸いです ;) 
