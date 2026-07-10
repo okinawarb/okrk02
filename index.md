@@ -25,7 +25,7 @@ lang: ja_JP
 📸 当日の様子
 <a href="https://bit.ly/okrk02-photos-on-dropbox"><img src="img/okrk02_photos.png" width='100%' /></a>
 </div>
-<center><a href="https://bit.ly/okrk02-photos-on-dropbox">当日の写真</a><br>
+<center><a href="https://bit.ly/okrk02-photos-on-dropbox">&raquo; 当日の写真を見る</a><br>
 (<a href="https://creativecommons.org/licenses/by/3.0/deed.ja">CC BY</a> ©︎ <a href="http://twitter.com/nanophate">@nanophate</a>)</center>
 
 <br>
