@@ -1,6 +1,5 @@
 ---
 layout: default
-title: {{ site.title }} - {{ site.date }}
 lang: ja_JP
 ---
 
@@ -31,7 +30,7 @@ lang: ja_JP
 <br>
 
 以下、記録用として、開催直前のWebサイトをそのまま残しております。
-今後の地域Ruby会議開催のご参考になれば幸いです ;) 
+今後の地域Ruby会議開催のご参考になれば幸いです ;)
 
 当日の様子を見る &raquo; [#okrk02](https://x.com/hashtag/okrk02)
 
